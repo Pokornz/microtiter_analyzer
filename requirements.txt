@@ -1,0 +1,7 @@
+# requirements.txt
+
+numpy==2.2.6
+PyQt6==6.10.1
+PyQt6-Qt6==6.10.1
+PyQt6_sip==13.10.3
+scikit-image==0.26.0
